@@ -1,1 +1,46 @@
-"# json-ajax-other" 
+[{
+    "name": "pickles",
+    "type": ["budgie", "spangle", "female"],
+    "color": "green",
+    "likes": {
+        "topeck": ["fingernails", "eyes"],
+        "toeat": ["millet", "seed", "honey treats"],
+        "todo": ["hide in curtain", "explore"],
+        "favperson": "Aman Dude"
+    }
+    
+},
+ {
+ "name": "cucumber",
+    "type": ["budgie", "female"],
+    "color": "green",
+    "likes": {
+        "topeck": ["noses", "ears"],
+        "toeat": ["millet", "seed"],
+        "todo": ["hide in curtain", "play tricks on humans", "follow pickles"],
+        "favperson": "DeeDee"
+    }
+ },
+ {
+ "name": "birdie",
+    "type": ["budgie", "female"],
+    "color": "blue",
+    "likes": {
+        "topeck": ["feet covers", "what other birds are pecking"],
+        "toeat": ["millet", "seed", "honey treats"],
+        "todo": ["peck other birds", "fly in cage", "scare other birds"],
+        "favperson": "Diana"
+    }
+ },
+ {
+ "name": "blueberry",
+    "type": ["robin", "male"],
+    "color": ["black", "orange"],
+    "likes": {
+        "topeck": null,
+        "toeat": "blueberry's",
+        "todo": ["watch humans", "explore", "hang around"],
+        "favperson": "Marcus"
+    }
+ },
+]
